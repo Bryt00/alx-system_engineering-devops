@@ -1,5 +1,3 @@
 # alx-system_engineering-devop
-Shell sripting 
-#!/bin/bash
-//echo "pwd"
+This is my second repo for ALX projects
 
